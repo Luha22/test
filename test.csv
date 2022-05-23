@@ -1,7 +1,7 @@
 #group,false,false,false,false
 #datatype,long,dateTime,long,double
 #default,,,,
-,_measurement,MESS_DATUM_BEGINN,QN_4,MO_N
+,_measurement,_time,_field,_value
 ,2261,19461201,5,999
 ,2261,19470101,5,5.38
 ,2261,19470201,5,6.43
