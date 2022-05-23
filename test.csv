@@ -1,0 +1,10 @@
+#datatype,long,dateTime,long,double,double,double,double,double,double,double,double,double,long,double,double,string
+#group,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+#default,,,,,,,,,,,,,,,,
+,_measurement,MESS_DATUM_BEGINN,QN_4,MO_N,MO_TT,MO_TX,MO_TN,MO_FK,MX_TX,MX_FX,MX_TN,MO_SD_S,QN_6,MO_RR,MX_RS,eor
+,2261,19461201,5,999,-5,999,999,999,999,999,999,999,999,999,999,eor
+,2261,19470101,5,5.38,-6.87,-4.09,-10.15,2.95,6.5,999,-24.7,81,5,21.6,5.7,eor
+,2261,19470201,5,6.43,-9.12,-6.15,-12.32,3.49,5.4,999,-16.8,54.6,5,37.3,11.6,eor
+,2261,19470301,5,6.04,1.35,5.5,-2.5,3.33,15.5,999,-16.8,86.7,5,71.6,13.9,eor
+,2261,19470401,5,4.76,7.86,13.78,2.29,3.13,22,999,-2.9,190.3,5,78.7,19.7,eor
+,2261,19470501,5,4.91,12.54,18.11,6.57,2.45,26.3,999,0.9,214.9,5,21.7,5.3,eor
