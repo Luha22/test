@@ -1,0 +1,10 @@
+#group,false,false,false,false
+#datatype,long,dateTime,long,double
+#default,,,,
+,_measurement,_time,_field,_value
+,2261,19461201,5,999
+,2261,19470101,5,5.38
+,2261,19470201,5,6.43
+,2261,19470301,5,6.04
+,2261,19470401,5,4.76
+,2261,19470501,5,4.91
